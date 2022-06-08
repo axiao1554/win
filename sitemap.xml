@@ -4,7 +4,7 @@
   <url>
     <loc>https://win.axiao.vip/hello-world/</loc>
     
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +13,7 @@
   <url>
     <loc>https://win.axiao.vip/declare</loc>
     
-    <lastmod>2022-05-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://win.axiao.vip/categories/</loc>
-    
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,16 @@
   <url>
     <loc>https://win.axiao.vip/tags/</loc>
     
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://win.axiao.vip/categories/</loc>
+    
+    <lastmod>2022-06-08</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://win.axiao.vip/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,14 +48,14 @@
   
   <url>
     <loc>https://win.axiao.vip/tags/%E4%BD%A0%E5%A5%BD/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://win.axiao.vip/tags/444/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -64,14 +64,14 @@
   
   <url>
     <loc>https://win.axiao.vip/categories/software/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://win.axiao.vip/categories/software/bangong/</loc>
-    <lastmod>2022-05-14</lastmod>
+    <lastmod>2022-06-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
