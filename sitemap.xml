@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://win.axiao.vip/hello-world/</loc>
+    <loc>https://win.axiao.vip/ps2022/</loc>
     
-    <lastmod>2022-06-08</lastmod>
+    <lastmod>2022-06-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,16 +13,7 @@
   <url>
     <loc>https://win.axiao.vip/declare</loc>
     
-    <lastmod>2022-06-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://win.axiao.vip/categories/</loc>
-    
-    <lastmod>2022-06-08</lastmod>
+    <lastmod>2022-06-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +22,16 @@
   <url>
     <loc>https://win.axiao.vip/tags/</loc>
     
-    <lastmod>2022-06-08</lastmod>
+    <lastmod>2022-06-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://win.axiao.vip/categories/</loc>
+    
+    <lastmod>2022-06-09</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,22 +40,22 @@
 
   <url>
     <loc>https://win.axiao.vip/</loc>
-    <lastmod>2022-06-08</lastmod>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://win.axiao.vip/tags/%E4%BD%A0%E5%A5%BD/</loc>
-    <lastmod>2022-06-08</lastmod>
+    <loc>https://win.axiao.vip/tags/Adobe%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://win.axiao.vip/tags/444/</loc>
-    <lastmod>2022-06-08</lastmod>
+    <loc>https://win.axiao.vip/tags/%E5%9B%BE%E5%83%8F%E5%A4%84%E7%90%86/</loc>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -63,15 +63,15 @@
 
   
   <url>
-    <loc>https://win.axiao.vip/categories/software/</loc>
-    <lastmod>2022-06-08</lastmod>
+    <loc>https://win.axiao.vip/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://win.axiao.vip/categories/software/bangong/</loc>
-    <lastmod>2022-06-08</lastmod>
+    <loc>https://win.axiao.vip/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/</loc>
+    <lastmod>2022-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
